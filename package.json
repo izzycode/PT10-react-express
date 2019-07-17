@@ -1,0 +1,11 @@
+{
+  "name": "PT10-express-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Israel Martinez <marcemc@yahoo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0"
+  }
+}
